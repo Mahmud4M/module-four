@@ -3,9 +3,7 @@ h1{
     background: lightblue;
     padding: 10px;
     text-transform: uppercase;
-    text-align: center;
 }
-
 .one{
     border-top: 2px solid gray ;
     margin-top: 5px;
