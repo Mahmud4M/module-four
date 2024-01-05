@@ -1,0 +1,26 @@
+h1{
+    color: black;
+    background: lightblue;
+    padding: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.one{
+    border-top: 2px solid gray ;
+    margin-top: 5px;
+}
+#search{
+    margin-top: 10px;
+}
+.two{
+    margin-top: 5px;
+    display: block;
+}
+.two img {
+    background: none;
+}
+.three{
+    margin-top: 7px;
+    border-bottom: 2px solid gray;
+}
